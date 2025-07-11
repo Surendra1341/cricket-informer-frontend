@@ -19,17 +19,6 @@ A modern React application for displaying live cricket scores, tournament points
 - **Lucide React** - Beautiful icons
 - **JavaScript ES6+** - Modern JavaScript features
 
-## Screenshots
-
-### Live Matches
-![Live Matches](screenshots/live-matches.png)
-
-### Points Table  
-![Points Table](screenshots/points-table.png)
-
-### Completed Matches
-![Completed Matches](screenshots/completed-matches.png)
-
 ## Setup Instructions
 
 1. **Clone the repository**
@@ -128,3 +117,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Related Projects
 
 - [Cricket Informer Backend](https://github.com/Surendra1341/cricket-informer-backend) - The Spring Boot backend API
+
+---
+
+**Frontend developed by our team and friends**
